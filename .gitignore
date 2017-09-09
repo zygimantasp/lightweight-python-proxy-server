@@ -1,0 +1,6 @@
+*.pyc
+*~
+venv
+*.egg-info/
+.coverage
+.idea
